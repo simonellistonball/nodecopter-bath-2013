@@ -1,0 +1,12 @@
+{
+  "name": "nodecopter",
+  "description": "Node Copter Bath",
+  "author": "Simon Elliston Ball <simon@simonellistonball.com>",
+  "private": true,
+  "dependencies": {
+    "opencv": "*",
+    "ar-drone": "*"
+
+  },
+  "engine": "node >= 0.10."
+}
