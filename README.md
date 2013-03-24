@@ -11,7 +11,7 @@ A hack day is not the time for pretty code, so here is some really ugly code.
 
 So, onto the real stuff. 
 
-The plan was to use opencv to do something, so we started off with a few samples based on [https://github.com/paulhayes/copterface copter face] and hacked it around to do a few extra things. Copterface gave us most of the 'find a face and centre on it' functionality. We wanted it to find people and respond to them properly.
+The plan was to use opencv to do something, so we started off with a few samples based on [CopterFace](https://github.com/paulhayes/copterface) and hacked it around to do a few extra things. Copterface gave us most of the 'find a face and centre on it' functionality. We wanted it to find people and respond to them properly.
 
 Essentially, we trained it to behave like my cat. A stranger gets close, it reacts (nods a greeting), get too close and it freaks out and runs away. 
 
